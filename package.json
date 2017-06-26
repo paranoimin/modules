@@ -1,0 +1,24 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paranoimin/modules.git"
+  },
+  "author": "jamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paranoimin/modules/issues"
+  },
+  "homepage": "https://github.com/paranoimin/modules#readme",
+  "dependencies": {
+    "jshint": "^2.9.5",
+    "sizzle": "^2.3.3",
+    "underscore": "^1.8.3"
+  }
+}
